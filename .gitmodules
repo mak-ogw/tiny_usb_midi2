@@ -1,0 +1,12 @@
+[submodule "lib/freertos/FreeRTOS-Kernel"]
+	path = lib/freertos/FreeRTOS-Kernel
+	url = https://github.com/FreeRTOS/FreeRTOS-Kernel.git
+[submodule "lib/tusb_ump"]
+	path = lib/tusb_ump
+	url = https://github.com/midi2-dev/tusb_ump.git
+[submodule "lib/AM_MIDI2.0Lib"]
+	path = lib/AM_MIDI2.0Lib
+	url = https://github.com/midi2-dev/AM_MIDI2.0Lib.git
+[submodule "lib/microshell"]
+	path = lib/microshell
+	url = https://github.com/marcinbor85/microshell.git
