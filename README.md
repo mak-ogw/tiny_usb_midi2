@@ -7,6 +7,8 @@ A simple sample project for prototyping a USB-MIDI 2.0 device with RP2040.
 - [Raspberry Pi Pico SDK](https://github.com/raspberrypi/pico-sdk) v1.5.1
   - set it in ../pico-sdk
 - [picotool](https://github.com/raspberrypi/picotool) v1.1.2
+- cmake version 3.XX
+  - Using cmake 4.XX causes an error when building PioasmBuild
 
 ## How to build
 
